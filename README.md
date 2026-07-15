@@ -67,6 +67,7 @@ https://github.com/abhiraj12345678/end-to-end-used-car-data-analysis
 - Database Design
 - Advanced SQL Queries
 - Business Insights
+- power bi
 
 ---
 
