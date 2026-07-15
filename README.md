@@ -39,10 +39,30 @@ I am passionate about Data Science, Data Analytics, Machine Learning, and solvin
 ### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### 🎯 Core Skills
+
+- 📊 Data Cleaning
+- 📈 Exploratory Data Analysis (EDA)
+- 🔄 Data Wrangling
+- 📉 Data Visualization
+- 🛠️ Feature Engineering
+- 🎯 Feature Selection
+- 🧹 Missing Value Handling
+- 🔤 Encoding (One-Hot & Ordinal)
+- ⚖️ Feature Scaling (StandardScaler)
+- 🔀 Train-Test Split
+- ⚙️ Scikit-learn Pipeline
+- 🔧 ColumnTransformer
+- 📌 Model Building
+- 📏 Model Evaluation
+- 📊 Statistical Analysis
+- 💼 Business Insights
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
